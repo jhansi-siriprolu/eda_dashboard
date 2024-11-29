@@ -1,6 +1,6 @@
 # EDA Module
 
-A reusable module for performing exploratory data analysis (EDA) in Python.
+A reusable module for performing exploratory data analysis (EDA) in Python. Used Streamlit as Frontend in creating the dashboards.
 
 ## Features
 - Load and describe datasets.
